@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Eu me chamo jônatas e estudo ciência da computação.
+
 <!--
 **jonatasmota404/jonatasmota404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
