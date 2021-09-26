@@ -9,5 +9,4 @@ Eu me chamo jônatas e estudo ciência da computação.
 - 💬 Pode me perguntar qualquer coisa sobre PHP.
 - 📫 Manda o pix: jonatasjr.019@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Converso com meus cachorros.
 - 🪕 Estilo musical: Folk/Jazz/Blues/Rock/Pop.
