@@ -7,7 +7,7 @@
 
 <div>
     <a href="https://github.com/jonatasmota404"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
 </div>
 
@@ -16,7 +16,7 @@
 - 👯 Procuro colaborar com projetos em PHP/Laravel.
 - 🪕 Estilo musical: Folk/Jazz/Blues/Rock/Pop.
 
-<div>
+<div style="display: inline-block"><br>
     <img align="center" height="30" width="40" src="assets/icons/c/c-original.svg" alt="c"/>
     <img align="center" height="30" width="40" src="assets/icons/php/php-original.svg" alt="php"/>
     <img align="center" height="30" width="40" src="assets/icons/javascript/javascript-original.svg" alt="js"/>
@@ -29,6 +29,6 @@
     <img align="center" height="30" width="40" src="assets/icons/laravel/laravel-plain.svg" alt="laravel"/>
     <img align="center" height="30" width="40" src="assets/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry"/>
     <img align="center" height="30" width="40" src="assets/icons/git/git-original.svg" alt="git"/>
-    <img align="center" height="30" width="40" src="assets/icons/github/github-original.svg" alt="github"/>
+    <img align="center" height="30" width="40" src="assets/icons/github/github-original-wordmark.svg" alt="github"/>
     <img align="center" height="30" width="40" src="assets/icons/phpstorm/phpstorm-original.svg" alt="phpstorm"/>
 </div>
