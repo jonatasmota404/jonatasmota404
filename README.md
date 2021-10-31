@@ -29,7 +29,6 @@
     <img align="center" height="30" width="40" src="assets/icons/laravel/laravel-plain.svg" alt="laravel"/>
     <img align="center" height="30" width="40" src="assets/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry"/>
     <img align="center" height="30" width="40" src="assets/icons/git/git-original.svg" alt="git"/>
-    <img align="center" height="30" width="40" src="assets/icons/github/github-original-wordmark.svg" alt="github"/>
     <img align="center" height="30" width="40" src="assets/icons/phpstorm/phpstorm-original.svg" alt="phpstorm"/>
 </div>
 <hr>
