@@ -33,4 +33,4 @@
     <img align="center" height="30" width="40" src="assets/icons/phpstorm/phpstorm-original.svg" alt="phpstorm"/>
 </div>
 <hr>
-<img align="right" src="assets/avatar.jpeg" alt="avatar">
+<img height="200" align="right" src="assets/avatar.jpeg" alt="avatar">
