@@ -5,7 +5,7 @@
 
 ### Olá! Eu sou o jônatas, um estudante de computação.  👋
 
-<div style="display: flex; align-items: center; justify-content: space-between">
+<div>
     <a href="https://github.com/jonatasmota404"></a>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
@@ -32,3 +32,5 @@
     <img align="center" height="30" width="40" src="assets/icons/github/github-original-wordmark.svg" alt="github"/>
     <img align="center" height="30" width="40" src="assets/icons/phpstorm/phpstorm-original.svg" alt="phpstorm"/>
 </div>
+<hr>
+<img align="right" src="assets/avatar.jpeg" alt="avatar">
