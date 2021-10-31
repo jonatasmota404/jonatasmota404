@@ -15,7 +15,7 @@
 - 🌱 Estou aprendendo Laravel.
 - 👯 Procuro colaborar com projetos em PHP/Laravel.
 - 🪕 Estilo musical: Folk/Jazz/Blues/Rock/Pop.
-  <img height="200" align="right" src="assets/avatar.jpeg" alt="avatar">
+  <img height="200" align="right" src="assets/avatar(1).png" alt="avatar">
 <div style="display: inline-block"><br>
     <img align="center" height="30" width="40" src="assets/icons/c/c-original.svg" alt="c"/>
     <img align="center" height="30" width="40" src="assets/icons/php/php-original.svg" alt="php"/>
