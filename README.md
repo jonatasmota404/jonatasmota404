@@ -7,12 +7,12 @@
 
 <div align="center">
     <a href="https://github.com/jonatasmota404"></a>
-    <img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
-    <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
+    <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+    &nbsp;
+    &nbsp;
+    <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
 </div>
-&nbsp;
 
-&nbsp;
 
 - 🔭 Estou estagiando como desenvolvedor na Honda Motoca.
 - 🌱 Estou aprendendo Laravel.
@@ -20,7 +20,7 @@
 - 🪕 Estilo musical: Folk/Jazz/Blues/Rock/Pop.
 
 
-  <img height="200" align="right" src="assets/avatar(1).png" alt="avatar">
+<img height="200" align="right" src="assets/avatar(1).png" alt="avatar">
 <div style="display: inline-block"><br>
     <img align="center" height="30" width="40" src="assets/icons/c/c-original.svg" alt="c"/>
     <img align="center" height="30" width="40" src="assets/icons/php/php-original.svg" alt="php"/>
