@@ -7,8 +7,9 @@
 
 <div align="center">
     <a href="https://github.com/jonatasmota404"></a>
-    <img height="150em" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
-    <img height="150em" style="padding-left: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+    &nbsp;
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
 </div>
 
 - 🔭 Estou estagiando como desenvolvedor na Honda Motoca.
