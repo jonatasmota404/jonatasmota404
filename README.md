@@ -10,6 +10,9 @@
     <img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
     <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
 </div>
+&nbsp;
+
+&nbsp;
 
 - 🔭 Estou estagiando como desenvolvedor na Honda Motoca.
 - 🌱 Estou aprendendo Laravel.
