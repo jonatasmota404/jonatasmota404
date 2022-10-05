@@ -5,14 +5,6 @@
 
 ### Olá! Eu sou o jônatas, um estudante de computação.  👋
 
-<div align="center">
-    <a href="https://github.com/jonatasmota404"></a>
-    <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=jonatasmota404&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
-    &nbsp;
-    &nbsp;
-    <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmota404&layout=compact&theme=dracula" alt="Top Langs">
-</div>
-
 
 - 🔭 Estou estagiando como desenvolvedor na Honda Motoca.
 - 🌱 Estou aprendendo Laravel.
@@ -46,8 +38,5 @@
     </a>
     <a href="mailto:jonatasjr.019@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://medium.com/@jonatasjr.019" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
     </a>
 </div>
