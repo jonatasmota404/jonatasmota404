@@ -6,9 +6,8 @@
 ### Olá! Eu sou o jônatas, um estudante de computação.  👋
 
 
-- 🔭 Estou estagiando como desenvolvedor na Honda Motoca.
-- 🌱 Estou aprendendo Laravel.
-- 👯 Procuro colaborar com projetos em PHP/Laravel.
+- 🌱 Estou aprendendo Laravel e Go.
+- 👯 Procuro colaborar com projetos em PHP/Laravel e Go.
 - 🪕 Estilo musical: Folk/Jazz/Blues/Rock/Pop.
 
 
