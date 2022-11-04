@@ -1,4 +1,4 @@
-<div>
+<div style="width: 100%">
     <a href="https://github.com/jonatasmota404"></a>
     <img align="center" src="assets/computer.gif" alt="coding-gif">
 </div>
