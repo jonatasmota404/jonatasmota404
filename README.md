@@ -15,6 +15,7 @@
 <div style="display: inline-block"><br>
     <img align="center" height="30" width="40" src="assets/icons/c/c-original.svg" alt="c"/>
     <img align="center" height="30" width="40" src="assets/icons/php/php-original.svg" alt="php"/>
+    <img align="center" height="30" width="40" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="go"/>
     <img align="center" height="30" width="40" src="assets/icons/javascript/javascript-original.svg" alt="js"/>
     <img align="center" height="30" width="40" src="assets/icons/html5/html5-original.svg" alt="html"/>
     <img align="center" height="30" width="40" src="assets/icons/css3/css3-original.svg" alt="css"/>
