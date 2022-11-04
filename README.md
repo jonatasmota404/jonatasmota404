@@ -1,6 +1,6 @@
 <div>
     <a href="https://github.com/jonatasmota404"></a>
-    <img align="center" src="assets/coding-gif(1).gif" alt="coding-gif">
+    <img align="center" src="assets/computer.gif" alt="coding-gif">
 </div>
 
 ### Olá! Eu sou o jônatas, um estudante de computação.  👋
